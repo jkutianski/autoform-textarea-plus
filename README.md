@@ -1,11 +1,11 @@
 # meteor-autoform-textarea-plus
 Custom textarea input type with char counter & well area for AutoForm
 
-## How to install it / Como instalarlo
+## How to install it
 
 `meteor add jkutianski:autoform-textarea-plus`
 
-## How to use it / Como usarlo
+## How to use it
 
 Create a SimpleSchema and set `textareaPlus` as AutoForm type
 
